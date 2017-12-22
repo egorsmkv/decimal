@@ -1,5 +1,5 @@
 {
-  "name": "rtlopez/decimal",
+  "name": "egorsmkv-packagist/decimal",
   "type": "library",
   "description": "An object oriented immutable arbitrary-precision arithmetic library for PHP",
   "keywords": [
@@ -15,7 +15,7 @@
     "immutable",
     "money"
   ],
-  "homepage": "https://github.com/rtlopez/decimal",
+  "homepage": "https://github.com/egorsmkv/decimal",
   "authors": [
     {
       "name": "rtlopez",
